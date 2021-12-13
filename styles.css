@@ -1,0 +1,13 @@
+body{
+  background-color: #e0ffff;
+}
+
+.education{
+  background-color: red;
+}
+
+hr{
+  background-color:#000000;
+  height:2px
+  border-width:20px
+}
